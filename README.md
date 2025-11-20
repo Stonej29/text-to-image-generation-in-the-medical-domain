@@ -91,3 +91,9 @@ Paste your API key in the prompt.
 
 --------
 
+### Authors:
+
+-   Jone Steinhoff
+-   Lukas Rasocha
+-   Mads Prip
+-   Petr B. Nylander
